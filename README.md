@@ -67,20 +67,7 @@ createApp(App).mount("#app");
 npm run dev
 ```
 
-That's it! Browse and start using the [TailGrids Vue component](/components/vue-link) in your Vue project.
-
 If you want to build the project, you can run 
 ```shellscript copy
 npm run build
 ```
-
-
-### [🚀 Explore All Components](https://tailgrids.com/components)
-
-### [🌏 Visit Website](https://tailgrids.com)
-
-### [📃 Documentation](https://tailgrids.com/docs)
-
-## 🎁 License
-
-TailGrids Vue Core is 100% Free! and open-source you can use it with your personal or commercial projects.
